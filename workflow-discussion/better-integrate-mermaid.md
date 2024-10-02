@@ -131,9 +131,10 @@ This way, you get both a rendered image and a clickable link to the original Mer
 
 ### One more things before you leave
 
-You wont have to copy paste this script tag in all your converted HTML(if you use pandoc)
+You wont have to copy paste this script tag in all your converted HTML **(if you use pandoc)**   
 but Hugo will automatically do it everytime we convert our markdown to html, as we will make a template once as resuse it.
 
-one more thing we dont even have to convert each file individually, hugo will be put inside a workflow that would trigger Hugo when any markdown file is updated.
+one more thing we dont even have to convert each file individually,  
+hugo will be put inside a workflow that would trigger Hugo when any markdown file is updated.
 
 ### Pandoc Destroyed. Mic Drop. Peace.
