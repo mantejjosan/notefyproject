@@ -8,7 +8,7 @@ Our primary need is to **convert Markdown to HTML**, with the additional require
 ### 1. **Seamless Markdown to HTML Conversion**
 Hugo excels in converting Markdown into well-structured HTML effortlessly. Its built-in Markdown support is robust and tailored for web publishing, making it an ideal solution for generating static sites. 
 <details>
-  <summary>Actual Commands</summary>
+  <summary>Actual Commands (Click to expand)</summary>
   To convert Markdown to HTML using **Hugo**, follow these steps:
 
 1. **Create a new Hugo site** (if you haven’t done so already):
