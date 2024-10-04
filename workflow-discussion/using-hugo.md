@@ -12,8 +12,9 @@ There are three main ways to download hugo:
 	- for MacOS: `Homebrew`, `MacPorts`
 	
 3. [Build from Source](https://gohugo.io/installation/windows/#build-from-source): It means compiling a software from the source code instead of pre-compiled or pre-built version like an executable(prebuilt-binaries)
+4. [Use Docker](https://github.com/gohugoio/hugo/pkgs/container/hugo/280590856?tag=v0.135.0)
 
-[Compare all three ways](https://gohugo.io/installation/windows/#comparison)
+[Compare all the first three ways](https://gohugo.io/installation/windows/#comparison)
 
 ## Usage
 
